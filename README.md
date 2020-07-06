@@ -1,2 +1,2 @@
-# genesis
-github begining
+# Node App
+A journey of learning Node
